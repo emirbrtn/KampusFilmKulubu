@@ -9,7 +9,7 @@ Proje, film odaklı içerikleri kullanıcı dostu bir arayüzle sunmayı hedefle
 ## 🚀 Canlı Demo
 
 Projeyi canlı olarak inceleyebilirsiniz:  
-👉 [Kampüs Film Kulübü]([kampus-film-kulubuodevi.vercel.app/](https://kampus-film-kulubuodevi.vercel.app/))
+👉 [Kampüs Film Kulübü]((https://kampus-film-kulubuodevi.vercel.app/))
 
 ---
 
